@@ -12,7 +12,7 @@ The problems with popularity based recommendation system is that the personaliza
 Python Packages: 
  - numpy
  - pandas
- - [Recommender](https://github.com/tinni2806/Podcast-Recommendation-Enfine/Popularity_Recommender.py), includes the methods which will basically create the recommendations and the recommend which recommends the items to the user.
+ - [Recommender](https://github.com/tinni2806/Podcast-Recommendation-Engine/Popularity_Recommender.py), includes the methods which will basically create the recommendations and the recommend which recommends the items to the user.
 
 Dataset:
 
