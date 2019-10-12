@@ -16,7 +16,7 @@ Python Packages:
 
 Dataset:
 
-- [song.csv](https://github.com/tinni2806/Podcast-Recommendation-Engine/blob/master/songs.csv)
+- [song_data.csv](https://github.com/tinni2806/Podcast-Recommendation-Engine/blob/master/song_data.csv)
 
 In this section we import our dataset as a triplets_file and songs_metadata_file. 
 - The triplet_file contains user_id, song_id and listen_count. 
